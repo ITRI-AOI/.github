@@ -7,7 +7,6 @@
 
 ## 📂 核心仓库
 - 🔍 [EyeQ](https://github.com/ITRI-AOI/EyeQ) — 工业AOI检测通用软件
-- 🖼️ [AoiLib](https://github.com/ITRI-AOI/AoiLib) — 工业AOI检测通用算法组件 
 
 ---
 
