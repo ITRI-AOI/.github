@@ -7,6 +7,8 @@
 
 ## 📂 核心仓库
 - 🔍 [EyeQ](https://github.com/ITRI-AOI/EyeQ) — 工业AOI检测通用软件
+- 🔍 [EyeTune](https://github.com/ITRI-AOI/EyeTuneFront) — 一站式AI数据模型管理平台（前端）
+- 🔍 [EyeTune](https://github.com/ITRI-AOI/EyeTuneServe) — 一站式AI数据模型管理平台（后端）
 
 ---
 
